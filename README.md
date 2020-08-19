@@ -1,4 +1,3 @@
-# api-client-python
 Python libraries for convenient access to PYLOT cloud platform by its customers & partners.
 
 Communication is done through HTTPS JSON REST protocols.
