@@ -15,7 +15,7 @@ suffixed with the location name.
 
 Each measurement:
 * is associated with a `node` to which the measurement relates to. It is compartment/climate zone/valve/drain/set of devices of specific type etc.  
-* have a metric id it represents. Preferably it is one of PYLOT's metrics  
+* has a metric id it represents. Preferably it is one of PYLOT's metrics  
 
 _``=> adapter, node, metric ids should be agreed with PYLOT team beforehand.``_
 
